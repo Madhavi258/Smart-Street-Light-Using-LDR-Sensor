@@ -4,12 +4,21 @@ Street lights are operated manually and because of that, sometimes lights are tu
 I used Firebase Realtime Databse to get realtime values of sensor based on which light is turned on or off.
 
 Libraries Used:
+---------------
 SoftwareSerial.h
+
 ArduinoJson.h
+
 Firebase.h
+
 FirebaseArduino.h
+
 FirebaseCloudMessaging.h
+
 FirebaseError.h
+
 FirebaseHttpClient.h
+
 FirebaseObject.h
+
 ESP8266WiFi.h
